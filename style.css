@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+.flexible-container {
+    display: flex;
+}
+
+.eat-healthy {
+    background-image: url(images/shapes/Frame\ 58.jpg);
+    background-repeat: no-repeat;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 50%;
+}
+
+.order-btn {
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(tomato, orange);
+    border-radius: 10px;
+    color: white;
+    font-weight: 500;
+}
+
+.food-net {
+    background-image: url(images/shapes/Frame\ 59.jpg);
+    margin-top: 20px;
+}
