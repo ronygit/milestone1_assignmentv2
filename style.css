@@ -43,3 +43,28 @@ h2 {
     background-image: url(images/shapes/Frame\ 59.jpg);
     margin-top: 20px;
 }
+
+.recipie-blog {
+    padding-left: 5%;
+    padding-right: 5%;
+
+}
+
+.recipie-essay {
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+.recipie-items .item {
+    width: 25%;
+    padding: 2%;
+    text-align: center;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    margin: 5%
+}
+
+.recipie-items .item img {
+    width: 100%;
+}
